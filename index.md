@@ -3,7 +3,7 @@ title: "Pradipika Meuse"
 order: 0
 in_menu: true
 ---
-![Texte décrivant l'image]({% link images/banderolle pratiquants.png %})
+![banderolle]({% link images/banderolle pratiquants.png %})
 
 # Pradipika Meuse
 
