@@ -1,13 +1,11 @@
 ---
-title: "La mlc de Marie-Lise Labonté"
+title: "La mlc©, libérer ses cuirasses psycho-corporelles"
 order: 3
 in_menu: true
 ---
-# La MLC©,  libérer ses cuirasses psycho-corporelles
+![rose]({% link images/rose.jpg %})
 
-![Texte décrivant l'image]({% link images/rose.jpg %})
-
-**La méthode MLC ©** repose sur le principe de base que le corps ne ment pas, ne doute pas,  il est le reflet de qui nous sommes. 
+**La méthode MLC ©** de Marie-Lise Labonté repose sur le principe de base que le corps ne ment pas, ne doute pas,  il est le reflet de qui nous sommes. 
 
 C’est une approche **psycho-corporelle** qui propose un **travail progressif de libération des cuirasses musculaires et des couches de tensions contenues dans notre corps**. 
 L’intention est d’apprendre à laisser ces cuirasses respirer, de les assouplir, et de les laisser aller quand elles ne sont plus nécessaires à notre vie, pour se retrouver Soi.
