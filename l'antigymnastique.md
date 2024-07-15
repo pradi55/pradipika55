@@ -1,6 +1,6 @@
 ---
 title: "L'Antigymnastique"
-order: 1
+order: 2
 in_menu: true
 ---
 # L’antigym©, explorer la carte de son corps-territoire

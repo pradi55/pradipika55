@@ -1,6 +1,6 @@
 ---
 title: "Le yoga d'inspiration tibétaine"
-order: 3
+order: 4
 in_menu: true
 ---
 ![Texte décrivant l'image]({% link images/milarepa.jpg %}) 

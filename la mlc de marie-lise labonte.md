@@ -1,6 +1,6 @@
 ---
 title: "La mlc de Marie-Lise Labonté"
-order: 4
+order: 3
 in_menu: true
 ---
 # La MLC©,  libérer ses cuirasses psycho-corporelles

@@ -1,6 +1,6 @@
 ---
 title: "Pradipika Meuse"
-order: 0
+order: 1
 in_menu: true
 ---
 ![banderolle]({% link images/banderolle pratiquants.png %})
