@@ -5,7 +5,7 @@ in_menu: true
 ---
 ### Retrouver l'unité corps-esprit-âme
 
-![Texte décrivant l'image]({% link images/rose.jpg %})
+![Texte décrivant l'image]({% link images/tibet montagnes.jpg %})
 
 Le yoga d’inspiration tibétaine propose une pratique avec des **enchaînements de mouvements simples et fluides, des postures, des mudras (gestes) permettant de lâcher les tensions musculaires et articulaires**. 
 
