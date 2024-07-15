@@ -5,7 +5,7 @@ in_menu: true
 ---
 # La MLC©,  libérer ses cuirasses psycho-corporelles
 
-![Texte décrivant l'image]({% link images/Copyright-Antigym-IMG_1942x-OK-scaled.jpg %})
+
 
 *La méthode MLC ©* repose sur le principe de base que le corps ne ment pas, ne doute pas,  il est le reflet de qui nous sommes. C’est une approche *psycho-corporelle* qui propose un *travail progressif de libération des cuirasses musculaires et des couches de tensions contenues dans notre corps*. 
 L’intention est d’apprendre à laisser ces cuirasses respirer, de les assouplir, et de les laisser aller quand elles ne sont plus nécessaires à notre vie, pour se retrouver Soi.
