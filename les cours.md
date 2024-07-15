@@ -3,6 +3,8 @@ title: "Les cours"
 order: 5
 in_menu: true
 ---
+Les cours sont dispensés par Catherine Baschet, diplômée de l'école de Yoga d'inspiration tibétaine de Chalon sur Saône, praticienne d'antigymnatique et élève en dernière année de formation de mlc.
+
 ## L'Antigymnastique
 ### Séance pour tous
 *Jeudi : 19h>20h30* 
