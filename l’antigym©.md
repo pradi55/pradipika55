@@ -3,7 +3,7 @@ title: "L’antigym©"
 order: 2
 in_menu: true
 ---
-### L’antigym©, explorer la carte de son corps-territoire
+### Explorer la carte de son corps-territoire
 
 ![mouvement d'antigym]({% link images/Copyright-Antigym-IMG_1942x-OK-scaled.jpg %})
 
