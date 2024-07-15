@@ -1,5 +1,5 @@
 ---
-title: "PORTES OUVERTES EN SEPTEMBRE"
+title: "Dernières nouvelles"
 order: 7
 in_menu: true
 ---
