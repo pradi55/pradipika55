@@ -1,6 +1,6 @@
 ---
 title: "Le yoga d'inspiration tibétaine"
-order: 5
+order: 3
 in_menu: true
 ---
 # Le yoga d’inspiration tibétaine, apprivoiser le silence intérieur
