@@ -1,5 +1,5 @@
 ---
-title: "Le yoga d'inspiration tibétaine, vers le silence"
+title: "Le yoga d'inspiration tibétaine, retrouver l'unité corps-esprit-âme"
 order: 4
 in_menu: true
 ---
