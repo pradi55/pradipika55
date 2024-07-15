@@ -3,7 +3,7 @@ title: "Dernières nouvelles"
 order: 7
 in_menu: true
 ---
-**Comment découvrir ces pratiques ?**
+**PORTES OUVERTES EN SEPTEMBRE 2024**
 
 Trois journées **Portes ouvertes** vous permettront d’essayer une ou plusieurs de nos activités gratuitement, sur inscription préalable.
 
@@ -18,11 +18,5 @@ Trois journées **Portes ouvertes** vous permettront d’essayer une ou plusieur
 
 N’hésitez pas à nous contacter pour plus d’informations
 
-**CONTACT**
-Catherine BASCHET
-
-51, boulevard Raymond Poincaré, Bar-le-Duc
-
-Tél. 06 74 80 76 63
-
-Email : pradipikameuse@gmail.com 
+**REPRISE DES COURS** : 
+A partir du mardi 17 septembre 2024 
