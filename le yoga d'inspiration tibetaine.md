@@ -3,7 +3,7 @@ title: "Le yoga d'inspiration tibétaine"
 order: 5
 in_menu: true
 ---
-*Le yoga d’inspiration tibétaine, apprivoiser le silence intérieur
+# Le yoga d’inspiration tibétaine, apprivoiser le silence intérieur
 
 Le yoga d’inspiration tibétaine propose une pratique avec des *enchaînements de mouvements simples et fluides, des postures, des mudras (gestes) permettant de lâcher les tensions musculaires et articulaires*. 
 
