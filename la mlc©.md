@@ -5,7 +5,8 @@ in_menu: true
 ---
 ### Libérer ses cuirasses psycho-corporelles
 
-![rose]({% link images/rose.jpg %})
+![rose]({% link images/rose.jpg %}) ![Texte décrivant l'image]({% link images/rose.jpg %})
+
 
 **La méthode MLC ©** de Marie-Lise Labonté repose sur le principe de base que le corps ne ment pas, ne doute pas,  il est le reflet de qui nous sommes. 
 
