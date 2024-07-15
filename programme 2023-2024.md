@@ -1,5 +1,5 @@
 ---
-title: "Les cours"
+title: "Programme 2023/2024"
 order: 5
 in_menu: true
 ---
