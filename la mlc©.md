@@ -3,7 +3,7 @@ title: "La mlc©"
 order: 3
 in_menu: true
 ---
-## Libérer ses cuirasses psycho-corporelles
+### Libérer ses cuirasses psycho-corporelles
 
 ![rose]({% link images/rose.jpg %})
 
