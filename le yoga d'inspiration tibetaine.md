@@ -1,5 +1,5 @@
 ---
-title: "Yoga d'inspiration tibétaine"
+title: "Le yoga d'inspiration tibétaine"
 order: 5
 in_menu: true
 ---
