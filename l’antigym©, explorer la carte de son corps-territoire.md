@@ -1,10 +1,8 @@
 ---
-title: "L'Antigymnastique"
+title: "L’antigym©, explorer la carte de son corps-territoire"
 order: 2
 in_menu: true
 ---
-# L’antigym©, explorer la carte de son corps-territoire
-
 ![Texte décrivant l'image]({% link images/Copyright-Antigym-IMG_1942x-OK-scaled.jpg %})
 
 Créée dans les années 1970 par la thérapeute **Thérèse BERTHERAT**, **l’antigymnastique** permet à chacun de mieux se connaître et de s’approprier son corps. Grâce à cette activité, vous retrouvez bien-être et énergie, vous améliorez votre souplesse et votre mobilité, vous libérez votre respiration et chassez votre stress.
