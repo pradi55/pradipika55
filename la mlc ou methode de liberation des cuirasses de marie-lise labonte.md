@@ -1,5 +1,5 @@
 ---
-title: "mlc ou méthode de libération des cuirasses"
+title: "La mlc ou méthode de libération des cuirasses de Marie-Lise Labonté"
 order: 4
 in_menu: true
 ---
