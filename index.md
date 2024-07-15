@@ -3,6 +3,8 @@ title: "Pradipika Meuse"
 order: 0
 in_menu: true
 ---
+![Texte décrivant l'image]({% link images/banderolle pratiquants.png %})
+
 # Pradipika Meuse
 
 L’association Pradipikameuse propose des **activités de bien-être pour tous**, selon trois approches distinctes et complémentaires. 
@@ -13,4 +15,4 @@ la seconde aborde le corps dans sa résonance psycho émotionnelle (selon la **m
 
 et la dernière, spirituelle, qui s’adresse au corps et à l’âme (**yoga d’inspiration tibétaine**). 
 
-Ces trois activités peuvent être pratiquées par tous les corps et à tous les âges 
+*Ces trois activités peuvent être pratiquées par tous les corps et à tous les âges.* 
