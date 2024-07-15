@@ -3,7 +3,7 @@ title: "La mlc ou méthode de libération des cuirasses de Marie-Lise Labonté"
 order: 4
 in_menu: true
 ---
-*La MLC©,  libérer ses cuirasses psycho-corporelles
+# La MLC©,  libérer ses cuirasses psycho-corporelles
 ![Texte décrivant l'image]({% link images/balles mlc.png %})
 
 
