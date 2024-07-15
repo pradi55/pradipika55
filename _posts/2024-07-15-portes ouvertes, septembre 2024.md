@@ -1,5 +1,5 @@
 ---
-title: "POrtes ouvertes, septembre 2024"
+title: "Portes ouvertes, septembre 2024"
 ---
 Trois journées **Portes ouvertes** vous permettront d’essayer une ou plusieurs de nos activités gratuitement, sur inscription préalable.
 
