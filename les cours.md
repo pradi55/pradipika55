@@ -1,6 +1,6 @@
 ---
 title: "Les cours"
-order: 1
+order: 5
 in_menu: true
 ---
 # L'Antigymnastique
