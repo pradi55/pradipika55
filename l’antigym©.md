@@ -13,4 +13,4 @@ Créée dans les années 1970 par la thérapeute **Thérèse BERTHERAT**, **l’
 
 #### _Au fil des rendez-vous, les participants retrouvent mobilité, vitalité, santé, autonomie et se débarrassent des crispations, des raideurs et des douleurs musculaires et articulaires._
 
-Site Internet : www.antigymnastique.com 
+Site Internet : https://antigymnastique.com/fr/praticien/baschet-catherine/ 
