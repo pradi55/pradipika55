@@ -15,4 +15,5 @@ la seconde aborde le corps dans sa résonance psycho émotionnelle (selon la **m
 
 et la dernière, spirituelle, qui s’adresse au corps et à l’âme (**yoga d’inspiration tibétaine**)
 
-*Ces trois activités peuvent être pratiquées par tous les corps et à tous les âges.* en petit groupe ( 8 personnes au maximum), dans une salle aux murs blancs, calme (pas de musique) et neutre. Une épaisse moquette recouvre le sol et la lumière est tamisée.  Les séances durent 1h30. Le matériel est disponible sur place comme des coussins,  des petites balles en liège ou en mousse, des rondins remplis de graines d’épeautre, des bâtons en bois… 
+*Ces trois activités peuvent être pratiquées par tous les corps et à tous les âges.* 
+Les séances se vivent en petit groupe ( 8 personnes au maximum), dans une salle aux murs blancs, calme (pas de musique) et neutre. Une épaisse moquette recouvre le sol et la lumière est tamisée.  Les séances durent 1h30. Le matériel est disponible sur place comme des coussins,  des petites balles en liège ou en mousse, des rondins remplis de graines d’épeautre, des bâtons en bois… 
