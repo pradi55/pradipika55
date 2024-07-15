@@ -1,8 +1,10 @@
 ---
-title: "Les cours de yoga"
+title: "Les cours"
 order: 1
 in_menu: true
 ---
+#Yoga d'inspiration tibétaine
+
 Cours pouvant accueillir des débutants 
 Mardi : 14h > 15h30
 
