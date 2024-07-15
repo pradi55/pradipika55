@@ -13,6 +13,8 @@ in_menu: true
 
 En un seul versement ou en 3 chèques que nous encaissons au début de chaque trimestre (octobre-décembre-avril) 
 
-- *Yoga d’inspiration tibétaine* : 50€ par trimestre (un trimestre = 10 cours de 1h30) 
-- *Antigym* : 80€ par trimestre (un trimestre = 10 cours de 1h30) 
-- *Méthode de libération des cuirasses* : 80€ par trimestre (un trimestre = 10 cours de 1h30) 
+-*Yoga d’inspiration tibétaine* : 50€ par trimestre (un trimestre = 10 cours de 1h30) 
+
+-*Antigym* : 80€ par trimestre (un trimestre = 10 cours de 1h30) 
+
+-*Méthode de libération des cuirasses* : 80€ par trimestre (un trimestre = 10 cours de 1h30) 
