@@ -26,10 +26,10 @@ Le matériel est disponible sur place comme des coussins,  des petites balles en
 **Cours pouvant accueillir des débutants**
 *Mardi : 14h > 15h30*
 
-**Cours complet** 
+**Complet** 
 *Mardi : 19h > 20h30* 
 
-**Cours complet** 
+**Complet** 
 *Mercredi : 19h>20h30*
 
 Pour les personnes ne pouvant pas venir en salle de façon habituelle ou exceptionnelle, possibilité de suivre le cours à distance. 
