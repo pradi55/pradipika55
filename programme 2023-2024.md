@@ -5,13 +5,17 @@ in_menu: true
 ---
 Les cours sont dispensés par Catherine Baschet, diplômée de l'école de Yoga d'inspiration tibétaine de Chalon sur Saône, praticienne d'antigymnatique et élève en dernière année de formation de mlc.
 
+Les séances se vivent en petit groupe ( 8 personnes au maximum), dans une salle aux murs blancs, calme (pas de musique) et neutre. Une épaisse moquette recouvre le sol et la lumière est tamisée.  Les séances durent 1h30. 
+
+Le matériel est disponible sur place comme des coussins,  des petites balles en liège ou en mousse, des rondins remplis de graines d’épeautre, des bâtons en bois… 
+
 ### L'Antigymnastique
 **Séance pour tous**
 *Jeudi : 19h>20h30* 
 
 ### La méthode de libération des cuirasses
 
-**Séance à partir de la 2e voire 3e année de pratique**
+**Complet**
 *Mercredi : 14h>15h30*
 
 **Séance pouvant accueillir des débutants**
@@ -22,10 +26,10 @@ Les cours sont dispensés par Catherine Baschet, diplômée de l'école de Yoga 
 **Cours pouvant accueillir des débutants**
 *Mardi : 14h > 15h30*
 
-**Cours à partir de la 3ème année de pratique** 
+**Cours complet** 
 *Mardi : 19h > 20h30* 
 
-**Cours à partir de la 4ème année de pratique** 
+**Cours complet** 
 *Mercredi : 19h>20h30*
 
 Pour les personnes ne pouvant pas venir en salle de façon habituelle ou exceptionnelle, possibilité de suivre le cours à distance. 
