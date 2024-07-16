@@ -18,4 +18,4 @@ La dernière s’adresse au corps, à l'esprit et à l’âme (**le yoga d’ins
 **Ces trois activités peuvent être pratiquées par tous et à tous les âges.** 
 
 
-Les séances se vivent en petit groupe ( 8 personnes au maximum), dans une salle aux murs blancs, calme (pas de musique) et neutre. Une épaisse moquette recouvre le sol et la lumière est tamisée.  Les séances durent 1h30. Le matériel est disponible sur place comme des coussins,  des petites balles en liège ou en mousse, des rondins remplis de graines d’épeautre, des bâtons en bois… 
+#### Suivez l'actualité de notre association sur ARTICLES 
