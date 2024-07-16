@@ -13,4 +13,4 @@ La **circulation plus libre de l’énergie** qui en résulte permet une détent
 
 Des **pratiques progressives** de concentration amènent vers plus de **calme mental** et de disponibilité. Le « regard intérieur » se développe ainsi que **l’aptitude au silence**. 
 
-#### _Cet **enseignement inspiré des pratiques tibétaines** propose une expérience, toujours personnelle, vers plus de conscience et d’ouverture à soi, aux autres et à la vie._ 
+##### _Cet **enseignement inspiré des pratiques tibétaines** propose une expérience, toujours personnelle, vers plus de conscience et d’ouverture à soi, aux autres et à la vie._ 
