@@ -1,5 +1,5 @@
 ---
-title: "Programme 2023/2024"
+title: "Programme 2024/2025"
 order: 5
 in_menu: true
 ---
@@ -24,7 +24,8 @@ Le matériel est disponible sur place comme des coussins,  des petites balles en
 ### Yoga d'inspiration tibétaine
 
 **Cours pouvant accueillir des débutants**
-*Mardi : 14h > 15h30*
+*Lundi : 19h ou 18* horaire à confirmer avec les participants
+
 
 **Complet** 
 *Mardi : 19h > 20h30* 
