@@ -15,23 +15,17 @@ Le matériel est disponible sur place comme des coussins,  des petites balles en
 
 ### La méthode de libération des cuirasses
 
-**Complet**
-*Mercredi : 14h>15h30*
+**Complet** *Mercredi : 14h>15h30*
 
-**Séance pouvant accueillir des débutants**
-*Jeudi : 14h>15h30*
+**Séance pouvant accueillir des débutants** *Jeudi : 14h>15h30*
 
 ### Yoga d'inspiration tibétaine
 
-**Cours pouvant accueillir des débutants**
-*Lundi : 19h ou 18* horaire à confirmer avec les participants
+**Cours pouvant accueillir des débutants** *Lundi : 19h ou 18h* horaire à définir avec les participants
 
+**Complet**  *Mardi : 19h > 20h30* 
 
-**Complet** 
-*Mardi : 19h > 20h30* 
-
-**Complet** 
-*Mercredi : 19h>20h30*
+**Complet** *Mercredi : 19h>20h30*
 
 Pour les personnes ne pouvant pas venir en salle de façon habituelle ou exceptionnelle, possibilité de suivre le cours à distance. 
 Merci de nous contacter` 
