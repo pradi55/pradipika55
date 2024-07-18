@@ -9,7 +9,7 @@ Trois journées **Portes ouvertes** vous permettront d’essayer une ou plusieur
 -**La méthode de libération des cuirasses** : jeudi 12 septembre à 14h
 
 
--**Le yoga d’inspiration tibétaine** : mardi 10 septembre à 14h ou à 19h
+-**Le yoga d’inspiration tibétaine** : lundi 9 septembre à 19h
 
 
 N’hésitez pas à nous contacter pour plus d’informations
