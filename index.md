@@ -18,4 +18,4 @@ La dernière s’adresse au corps, à l'esprit et à l’âme (**le yoga d’ins
 **Ces trois activités peuvent être pratiquées par tous et à tous les âges.** 
 
 
-#### Suivez l'actualité de notre association sur ARTICLES 
+#### Portes ouvertes les 10 et 12 septembre 2024 sur ARTICLES 
