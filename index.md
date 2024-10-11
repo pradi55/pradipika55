@@ -18,4 +18,4 @@ La dernière s’adresse au corps, à l'esprit et à l’âme (**le yoga d’ins
 **Ces trois activités peuvent être pratiquées par tous et à tous les âges.** 
 
 
-### C'est aujourd'hui notre rentrée, nous sommes le lundi 16 septembre ! 
+## Nouveau : AGENDA avec dates de vacances & TARIFS avec dates de dépôts des chèques 
