@@ -1,5 +1,5 @@
 ---
-title: "Les activités 2024/2025"
+title: "Les cours"
 order: 5
 in_menu: true
 ---
