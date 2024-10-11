@@ -1,5 +1,5 @@
 ---
-title: "Adhérer à l'association"
+title: "Tarifs et dates de prélèvement"
 order: 6
 in_menu: true
 ---
@@ -11,7 +11,7 @@ in_menu: true
 
 # Règlement des cours  : 
 
-En un seul versement ou en 3 chèques que nous encaissons au début de chaque trimestre (octobre-décembre-avril) 
+En un seul versement ou en 3 chèques que nous encaissons au début de chaque trimestre (octobre; semaine du 17 décembre, semaine du 17 mars) 
 
 -*Yoga d’inspiration tibétaine* : 50€ par trimestre (un trimestre = 10 cours de 1h30) 
 
