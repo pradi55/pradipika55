@@ -1,5 +1,5 @@
 ---
-title: "Tarifs et dates de prélèvement"
+title: "Tarifs"
 order: 6
 in_menu: true
 ---
