@@ -1,5 +1,5 @@
 ---
-title: "Agenda 2024/2025"
+title: "Agenda"
 order: 8
 in_menu: true
 ---
