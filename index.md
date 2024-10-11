@@ -19,5 +19,5 @@ La dernière s’adresse au corps, à l'esprit et à l’âme (**le yoga d’ins
 
 
 # Nouveau : 
-AGENDA avec dates de vacances 
-TARIFS avec dates de dépôts des chèques 
+AGENDA : dates de vacances 
+TARIFS : tarifs et dates de dépôts des chèques 
