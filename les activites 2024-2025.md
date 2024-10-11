@@ -1,5 +1,5 @@
 ---
-title: "Programme 2024/2025"
+title: "Les activités 2024/2025"
 order: 5
 in_menu: true
 ---
