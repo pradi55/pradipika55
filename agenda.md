@@ -9,6 +9,6 @@ du 21 octobre au 3 novembre 2024
 du 21 décembre 2024 au 5 janvier 2025
 du 8 au 24 février 2025 
 
-Absence exceptionnelles
+Absence exceptionnelle
 
 - Pas de cours du 12 au 18 novembre inclus : Séminaire de fin de formation de la MLC (méthode de libération des cuirasses) en internat à Hyères 
