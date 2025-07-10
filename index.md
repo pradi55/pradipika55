@@ -9,9 +9,9 @@ in_menu: true
 
 L’association Pradipikameuse propose des **activités de bien-être pour tous**, selon trois approches distinctes et complémentaires. 
 
-L’une propose une remise en ordre corporelle (**l’Antigymnastique©** de Thérèse Bertherat)
+L’une propose une remise en ordre corporelle accessible à tous **(la gym insolite)**
 
-La seconde aborde le corps dans sa résonance psycho émotionnelle (selon la **méthode de libération des cuirasses© ou mlc** de Marie-Lise Labonté) 
+La seconde aborde le corps dans sa résonance psycho émotionnelle ( **Méthode de Libération des Cuirasses© ou MLC** de Marie-Lise Labonté) 
 
 La dernière s’adresse au corps, à l'esprit et à l’âme (**le yoga d’inspiration tibétaine**)
 
