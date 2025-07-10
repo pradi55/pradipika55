@@ -9,15 +9,15 @@ Les séances se vivent en petit groupe ( 8 personnes au maximum), dans une salle
 
 Le matériel est disponible sur place comme des coussins,  des petites balles en liège ou en mousse, des rondins remplis de graines d’épeautre, des bâtons en bois… 
 
-### L'Antigymnastique
+### Gym insolite
 **Séance pour tous**
 *Jeudi : 19h>20h30* 
 
 ### La méthode de libération des cuirasses
 
-**Complet** *Mercredi : 14h>15h30*
+*Mercredi : 14h>15h30* 
 
-**Séance pouvant accueillir des débutants** *Jeudi : 14h>15h30*
+*Jeudi : 14h>15h30*
 
 ### Yoga d'inspiration tibétaine
 
