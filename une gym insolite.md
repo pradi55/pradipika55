@@ -8,7 +8,7 @@ in_menu: true
 ![pied et balle]({% link images/balle-pied.png %})
 
 
-Une gym pour permettre à chacun de mieux se connaître et de s’approprier son corps. Grâce à cette activité, vous retrouvez bien-être et énergie, vous améliorez votre souplesse et votre mobilité articulaire et vous chassez votre stress.
+Une "gym" pour permettre à chacun de mieux se connaître et de s’approprier son corps. Grâce à cette activité, vous retrouvez bien-être et énergie, vous améliorez votre souplesse et votre mobilité articulaire et vous chassez votre stress.
 
 **Méthode de travail corporel ludique fondée sur l’écoute du corps**, la Gym insolite propose des **mouvements à la fois simples et puissants** qui sollicitent les muscles en profondeur. Ils permettent notamment de dénouer la musculature, de travailler sur la respiration… 
 
