@@ -21,7 +21,7 @@ Le matériel est disponible sur place comme des coussins,  des petites balles en
 
 ### Yoga d'inspiration tibétaine
 
-**Cours pouvant accueillir des débutants** *Lundi : 18h30 à 20h
+**Cours pouvant accueillir des débutants** *Lundi : 19h à 20h30
 
 **Complet**  *Mardi : 19h > 20h30* 
 
