@@ -5,7 +5,8 @@ in_menu: true
 ---
 ### Explorer la carte de son corps-territoire
 
-![mouvement d'antigym]({% link images/Copyright-Antigym-IMG_1942x-OK-scaled.jpg %})
+![pied et balle]({% link images/balle-pied.png %})
+
 
 Une gym pour permettre à chacun de mieux se connaître et de s’approprier son corps. Grâce à cette activité, vous retrouvez bien-être et énergie, vous améliorez votre souplesse et votre mobilité articulaire et vous chassez votre stress.
 
