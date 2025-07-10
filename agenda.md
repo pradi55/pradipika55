@@ -3,12 +3,8 @@ title: "Agenda"
 order: 8
 in_menu: true
 ---
-Pas de cours pendant les vacances scolaires
+Reprise des cours le lundi 15 septembre 2025.
 
-du 21 octobre au 3 novembre 2024
-du 21 décembre 2024 au 5 janvier 2025
-du 8 au 24 février 2025 
+Un trimestre compte généralement 10 cours de 1h30 (soit 30 séances sur une année scolaire). Le calendrier des séances s’échelonne sur 32 semaines pour palier à d’éventuelles absences ou jours fériés.
 
-Absence exceptionnelle
-
-- Pas de cours du 12 au 18 novembre inclus : Séminaire de fin de formation de la MLC (méthode de libération des cuirasses) en internat à Hyères 
+Pas de cours pendant les vacances scolaires ou les jours fériés. 
