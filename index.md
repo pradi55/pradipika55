@@ -19,4 +19,4 @@ La dernière s’adresse au corps, à l'esprit et à l’âme (**le yoga d’ins
 
 
 # Nouveau : 
-RENTREE 2025 : les cours reprennent à partir du lundi 15 septembre 
+**RENTREE 2025 : les cours reprennent à partir du lundi 15 septembre** 
