@@ -19,5 +19,4 @@ La dernière s’adresse au corps, à l'esprit et à l’âme (**le yoga d’ins
 
 
 # Nouveau : 
-AGENDA : dates de vacances 
-TARIFS : tarifs et dates de dépôts des chèques 
+RENTREE 2025 : les cours reprennent à partir du lundi 15 septembre 
