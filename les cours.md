@@ -3,7 +3,7 @@ title: "Les cours"
 order: 5
 in_menu: true
 ---
-Les cours sont dispensés par Catherine Baschet, diplômée de l'école de Yoga d'inspiration tibétaine de Chalon sur Saône, et diplômée de mlc.
+Les cours sont dispensés par Catherine Baschet, diplômée de l'école de Yoga d'inspiration tibétaine de Chalon sur Saône, diplômée de mlc (Marie-Lise Labonté) et formée à la méthode de l'antigym (Thérèse Bertherat).
 
 Les séances se vivent en petit groupe ( 8 personnes au maximum), dans une salle aux murs blancs, calme (pas de musique) et neutre. Une épaisse moquette recouvre le sol et la lumière est tamisée.  Les séances durent 1h30. 
 
